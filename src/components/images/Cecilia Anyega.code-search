@@ -1,0 +1,25 @@
+# Query: Sachin Mittal
+# Flags: RegExp
+# ContextLines: 1
+
+5 results - 3 files
+
+public/index.html:
+   9        name="description"
+  10:       content="Cecilia's portfolio"
+  11      />
+
+  20  
+  21:     <title>Cecilia Anyega</title>
+  22    </head>
+
+public/manifest.json:
+  1  {
+  2:   "short_name": "Cecilia Anyega portfolio",
+  3:   "name": "Cecilia Anyega portfolio",
+  4    "icons": [
+
+src/components/sidebar/Sidebar.js:
+  14                  <div style={{ color: 'black', fontWeight: 'bold' }} className=""> # coding </div>
+  15:                 <h1><Link smooth to="/#start" className="h1_links">Cecilia Anyega</Link></h1>
+  16  

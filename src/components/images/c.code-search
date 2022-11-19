@@ -1,0 +1,55 @@
+# Query: mittal
+# Flags: RegExp
+# ContextLines: 1
+
+15 results - 6 files
+
+package-lock.json:
+  1  {
+  2:   "name": "Cecilia",
+  3    "version": "0.1.0",
+
+  7      "": {
+  8:       "name": "Cecilia",
+  9        "version": "0.1.0",
+
+package.json:
+  1  {
+  2:   "name": "Cecilial",
+  3    "version": "0.1.0",
+
+public/index.html:
+   9        name="description"
+  10:       content="Cecilia Anyega's portfolio"
+  11      />
+
+  20  
+  21:     <title>Cecilia Anyega</title>
+  22    </head>
+
+public/manifest.json:
+  1  {
+  2:   "short_name": "Cecilia Anyegaportfolio",
+  3:   "name": "Cecilia Anyega portfolio",
+  4    "icons": [
+
+src/components/carousel/CarouselImages.js.js:
+  29                              <h1>THINGS!!</h1>
+  30:                             <a href="https://github.com/mittalsam98" rel="opener noreferrer" target="_blank">VIEW PROJECTS   <GoProject /></a>
+  31                          </div>
+
+src/components/sidebar/Sidebar.js:
+  14                  <div style={{ color: 'black', fontWeight: 'bold' }} className=""> # coding </div>
+  15:                 <h1><Link smooth to="/#start" className="h1_links">Sachin Mittal</Link></h1>
+  16  
+  17                  <img src={logo} />
+  18:                 <p style={{ color: 'black', fontWeight: 'bold' }} className="gmail"><a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftvBffjPmxWxvfHWRHWnhTbpQgPxBxvkcnPpFpFqbhrXMCHXSJTsCXCVLsQzgRcVLpnPL" rel="opener noreferrer" target="_blank" className="fa fa-envelope"></a> mittalsam98@gmail.com </p>
+  19  
+
+  28                      <ul className="sidebar-nav">
+  29:                         <li className="sidebar-nav-icons"> <a href="https://github.com/mittalsam98" rel="opener noreferrer" target="_blank" className="fa fas fa-github fa-lg"></a></li>
+  30:                         <li className="sidebar-nav-icons"><a href="https://www.linkedin.com/in/sachin-mittal-476174158?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoRhF2EUsQJ%2BygJpLEZb%2FFA%3D%3D" rel="opener noreferrer" target="_blank" className="fa fas fa-linkedin fa-lg"></a></li>
+  31:                         <li className="sidebar-nav-icons"> <a href="https://twitter.com/Sachin_Mittal98" rel="opener noreferrer" target="_blank" className="fa fas fa-twitter fa-lg"></a></li>
+  32:                         <li className="sidebar-nav-icons"> <a href="https://www.instagram.com/decent_sachin.mittal/" rel="opener noreferrer" target="_blank" className="fa fas fa-instagram fa-lg"></a></li>
+  33:                         <li className="sidebar-nav-icons"> <a href="mailto:mittalsam98@gmail.com" rel="opener noreferrer" target="_blank" className="fa fas fa-envelope fa-lg"></a></li>
+  34                          <li className="sidebar-nav-icons"> <a href="https://www.facebook.com/profile.php?id=100011989067867" rel="opener noreferrer" target="_blank" className="fa fas fa-facebook fa-lg"></a></li>
